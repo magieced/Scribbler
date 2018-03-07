@@ -80,7 +80,7 @@ public class Scribbler {
   	
 		System.out.println(" __                     ");
 		System.out.println("(_  _  __ o |_  |_  |  _  __ v0.3");
-		System.out.println("__)(_  |  | |_) |_) | (/_ | by Florian Fuhrmann and Sacha Conrads");
+		System.out.println("__)(_  |  | |_) |_) | (/_ | by DiamondCoding and Magieced");
 		System.out.println(" ");
 		
 		//playSound("music.wav");
